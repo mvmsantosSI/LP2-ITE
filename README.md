@@ -12,3 +12,5 @@ Aula 6 - branch aula06
 Aula 7 - branch aula07
 
 ...
+
+A Branch MAIN Deverá ser sempre a aulaBranch mais atualizada
